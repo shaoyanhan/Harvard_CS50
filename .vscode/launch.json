@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "args": ["small"],
+            "cwd": "D:\\研究生项目\\CS50_Harvard\\degrees\\" ,
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}
